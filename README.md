@@ -31,7 +31,7 @@ The goal was to create a user-friendly dashboard that allows decision-makers to 
 
 ## 1️⃣ Total Outstanding Loan Balance
 ### Business Question
-* What is the total balance of all outstanding loans? *
+* What is the total balance of all outstanding loans? 
 
 #### Metric
   - Outstanding Loans Amount
