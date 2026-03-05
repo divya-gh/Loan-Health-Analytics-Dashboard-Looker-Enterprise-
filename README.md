@@ -1,13 +1,15 @@
 # Loan-Health-Analytics-Dashboard-Looker-Enterprise-
 This project demonstrates how to analyze and activate data using Looker Enterprise by building an interactive dashboard that helps financial teams monitor the health of a loan portfolio..Tools: Looker Enterprise • Google Cloud • SQL • Data Visualization • Business Analytics
 
-# 🏦 Business Scenario
+## 🏦 Business Scenario
 ##### The Treasury Department at TheLook Fintech needs a dashboard to monitor loan health and financial risk.
-
 ##### The team needs quick answers to critical questions such as:
   1️⃣ What is the total outstanding balance of all loans?
+  
   2️⃣ What percentage of loans fall into each status category?
+  
   3️⃣ Which states have the highest concentration of loans?
+  
   4️⃣ Which high-income customers own their homes and have current loans?
 
 The goal was to create a user-friendly dashboard that allows decision-makers to monitor risk and analyze loan distribution.
