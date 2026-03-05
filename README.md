@@ -150,17 +150,6 @@ FROM fintech.loan
 
 This query calculates the total outstanding loan balance.
 
-## 📊 Dashboard Layout
-#### Recommended layout:
-
------------------------------------------
-| Total Outstanding Loans (KPI)         |
------------------------------------------
-| Loan Status Pie | Top States Bar Chart|
------------------------------------------
-| Top Customers Table                   |
------------------------------------------
-
 ## 💡 Key Skills Demonstrated
 * Data visualization in Looker Enterprise
 * Dashboard design for business stakeholders
