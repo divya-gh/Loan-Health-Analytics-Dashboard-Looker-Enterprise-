@@ -134,7 +134,7 @@ Top States Loans	Daily
 #### Dashboard refresh rate: Hourly
 
 ## 🧠 Data Model (LookML)
-** Looker uses LookML views to define dimensions and measures.**
+* Looker uses LookML views to define dimensions and measures.
 
 #### Example logic for Outstanding Loans Amount:
 
