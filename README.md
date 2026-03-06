@@ -46,7 +46,7 @@ The goal was to create a user-friendly dashboard that allows decision-makers to 
 * If value > 3B → background turns red. * 
 
 Screenshot
-![Total Outstanding Loans](screenshots/total_outstanding_loans.png)
+![Total Outstanding Loans](./Images/TotalAmountofOutstandingLoans.png)
 
 ## 2️⃣ Percentage of Outstanding Loans by Status
 ### Business Question
@@ -62,13 +62,13 @@ Screenshot
   - Current
   - Late
   - Default
-  - Charged Off\
+  - Charged Off
   - Grace Period
   - Fully Paid
 Tracking this helps the treasury team monitor loan risk and repayment behavior.
 
 Screenshot
-![Loan Status Distribution](screenshots/loan_status_percentage.png)
+![Loan Status Distribution](./Images/percentage_by_status.png)
 
 ## 3️⃣ Top 10 States by Outstanding Loan Count
 ### Business Question
@@ -79,7 +79,7 @@ Screenshot
  - Outstanding Count
 #### Visualization
 - Bar Chart
-####b Filters
+#### Filters
 - Top 10 states only
 
 ### Business Insight
@@ -87,7 +87,7 @@ Screenshot
 -- ** Diversification helps reduce exposure to regional economic downturns.**
 
 Screenshot
-![Loans by State](screenshots/top_states_loans.png)
+![Loans by State](./Images/Total_count_per_state.png)
 
 ## Top 10 Customers by Highest Income
 #### Business Question:
@@ -96,8 +96,8 @@ Screenshot
 #### Dimensions Used:
 ##### From Customer View :
   - Customer ID
-      - Income
-      - State
+  - Income
+  - State
 
 ##### From Loan View:
   - Interest Rate
@@ -113,7 +113,7 @@ Screenshot
   - targeted financial services
 
 Screenshot
-![Top Customers](screenshots/top_customers_income.png)
+![Top Customers](./Images/Top_Customers_by_income.png)
 
 ## ⚡ Dashboard Features
  - Cross Filtering
@@ -160,7 +160,7 @@ This query calculates the total outstanding loan balance.
 * LookML data exploration
 * SQL query interpretation
 
-![Loan Insights Dashboard](screenshots/final_dashboard.png)
+![Loan Insights Dashboard](./Images/Dashboard.png)
 
 ## 🚀 Business Impact
 #### This dashboard enables the Treasury team to:
